@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 ReactDOM.render(
     <h1>Hello React Boilerplate</h1>,
