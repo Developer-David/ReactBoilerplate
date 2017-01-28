@@ -1,0 +1,2 @@
+# ReactBoilerplate
+Boilerplate application
